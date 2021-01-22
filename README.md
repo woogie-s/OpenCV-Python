@@ -6,7 +6,7 @@ FastCampus의 <OpenCV를 활용한 컴퓨터비전과 딥러닝 올인원 패키
 
 ___
 
-## < Chapter 01 >
+## < Chapter 01 > OpenCV-Python 시작하기
 1. 전체 코스와 컴퓨터 비전 소개
 2. 영상의 구조와 표현
 3. OpenCV 소개와 설치
@@ -18,7 +18,7 @@ ___
 
 <br>
 
-## < Chapter 02 >
+## < Chapter 02 > OpenCV-Python 기초 사용법
 1. <a href="/CH02/img_info.py">영상의 속성과 픽셀 값 처리</a>
 2. <a href="/CH02/img_ops.py">영상의 생성, 복사, 부분 영상 추출</a>
 3. <a href="/CH02/mask_op.py">마스크 연산과 ROI</a>
@@ -30,3 +30,7 @@ ___
 9. <a href="/CH02/trackbar.py">트랙바 사용하기</a>
 10. <a href="/CH02/time_check.py">연산 시간 측정 방법</a>
 11. <a href="/CH02/[Project02]video_effect.py">실전 코딩 - 동영상 전환 이펙트</a>
+
+<br>
+
+## < Chapter 03 > 기본적인 영상 처리 기법
