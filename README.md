@@ -1,8 +1,8 @@
 # OpenCV-Python
 
-OpenCV에 대해 공부하고, Python을 활용한 OpenCV 활용법을 공부한 것을 기록하는 공간입니다.
+OpenCV에 대해 공부하고, Python을 활용한 OpenCV 활용법에 대해 공부한 것을 기록하는 공간입니다.
 
-FastCampus의 <OpenCV를 활용한 컴퓨터비전과 딥러닝 올인원 패키지 Online> 강의를 통해 배운 것을 기록하고, 실습 내용을 기록하고 정리하였습니다.
+<a href="https://fastcampus.co.kr/">FastCampus</a>의 <OpenCV를 활용한 컴퓨터비전과 딥러닝 올인원 패키지 Online> 강의를 통해 실습한 내용을 기록하고 정리하였습니다.
 
 ___
 
@@ -47,3 +47,6 @@ ___
 <br>
 
 ## < Chapter 04 > 필터링
+1. 필터링 이해하기
+2. 블러링 (1) - 평균값 필터 &nbsp;<a href="/CH04/blurring1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH04/blurring2.py">( 2 )</a>
+3. 블러링 (2) - 가우시안 필터 &nbsp;<a href="/CH04/gaussian1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH04/gaussian2.py">( 2 )</a>
