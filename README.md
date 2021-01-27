@@ -50,3 +50,11 @@ ___
 1. 필터링 이해하기
 2. 블러링 (1) - 평균값 필터 &nbsp;<a href="/CH04/blurring1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH04/blurring2.py">( 2 )</a>
 3. 블러링 (2) - 가우시안 필터 &nbsp;<a href="/CH04/gaussian1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH04/gaussian2.py">( 2 )</a>
+4. 샤프닝 - 언샤프 마스크 필터 &nbsp;<a href="/CH04/sharpening1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH04/sharpening2.py">( 2 )</a>
+5. <a href="/CH04/median.py">잡음 제거 (1) - 미디언 필터</a>
+6. <a href="/CH04/bilateral.py">잡음 제거 (2) - 양방향 필터</a>
+7. <a href="/CH04/[Project04]cartoon_cam.py">실전 코딩 - 카툰 필터 카메라</a>
+
+<br>
+
+## < Chapter 05 > 기하학적 변환
