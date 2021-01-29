@@ -59,3 +59,6 @@ ___
 
 ## < Chapter 05 > 기하학적 변환
 1. 영상의 <a href="/CH05/translate.py">이동 변환</a>과 <a href="/CH05/shear.py">전단 변환</a>
+2. <a href="/CH05/scaling.py">영상의 확대와 축소</a>
+3. <a href="/CH05/pyramid.py">이미지 피라미드</a>
+4. 영상의 회전 &nbsp;<a href="/CH05/rotation1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH05/rotation2.py">( 2 )</a>
