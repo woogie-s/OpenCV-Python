@@ -58,3 +58,4 @@ ___
 <br>
 
 ## < Chapter 05 > 기하학적 변환
+1. 영상의 <a href="/CH05/translate.py">이동 변환</a>과 <a href="/CH05/shear.py">전단 변환</a>
