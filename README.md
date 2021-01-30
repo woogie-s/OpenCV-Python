@@ -62,3 +62,10 @@ ___
 2. <a href="/CH05/scaling.py">영상의 확대와 축소</a>
 3. <a href="/CH05/pyramid.py">이미지 피라미드</a>
 4. 영상의 회전 &nbsp;<a href="/CH05/rotation1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH05/rotation2.py">( 2 )</a>
+5. <a href="/CH05/perspective.py">어파인 변환과 투시 변환</a>
+6. <a href="/CH05/remap.py">리매핑</a>
+7. <a href="/CH05/[Project05]docuscan.py">실전 코딩 - 문서 스캐너</a>
+
+<br>
+
+## < Chapter 06 > 영상의 특징 추출
