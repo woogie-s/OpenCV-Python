@@ -70,3 +70,12 @@ ___
 
 ## < Chapter 06 > 영상의 특징 추출
 1. <a href="/CH06/sobel.py">영상의 미분과 소베 필터</a>
+2. <a href="/CH06/sobel_edge.py">그래디언트와 에지 검출</a>
+3. <a href="/CH06/canny.py">캐니 에지 검출</a>
+4. <a href="/CH06/hough_lines.py">허프 변환 직선 검출</a>
+5. <a href="/CH06/hough_circles.py">허프 원 변환 원 검출</a>
+6. <a href="/CH06/[Project06]coin_count.py">실전 코딩 - 동전 카운터</a>
+
+<br>
+
+## < Chapter 07 > 이진 영상 처리
