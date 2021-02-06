@@ -79,3 +79,7 @@ ___
 <br>
 
 ## < Chapter 07 > 이진 영상 처리
+1. 영상의 이진화 &nbsp;<a href="/CH07/threshold1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH07/threshold2.py">( 2 )</a>
+2. <a href="/CH07/otsu.py">자동 이진화 Otsu 방법</a>
+3. 지역 이진화 &nbsp;<a href="/CH07/local_th.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH07/adaptive_th.py">( 2 )</a>
+4. 모폴로지(1) - <a href="/CH07/morphology.py">침식과 팽창</a>
