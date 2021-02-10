@@ -83,3 +83,4 @@ ___
 2. <a href="/CH07/otsu.py">자동 이진화 Otsu 방법</a>
 3. 지역 이진화 &nbsp;<a href="/CH07/local_th.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH07/adaptive_th.py">( 2 )</a>
 4. 모폴로지(1) - <a href="/CH07/morphology.py">침식과 팽창</a>
+5. 모폴로지(2) - <a href="/CH07/ricecount.py">열기와 닫기</a>
