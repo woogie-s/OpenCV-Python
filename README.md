@@ -84,3 +84,24 @@ ___
 3. 지역 이진화 &nbsp;<a href="/CH07/local_th.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH07/adaptive_th.py">( 2 )</a>
 4. 모폴로지(1) - <a href="/CH07/morphology.py">침식과 팽창</a>
 5. 모폴로지(2) - <a href="/CH07/ricecount.py">열기와 닫기</a>
+6. <a href="/CH07/keyboard.py">레이블링</a>
+7. 외곽선 검출 &nbsp;<a href="/CH07/contours1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH07/contours2.py">( 2 )</a>
+8. <a href="/CH07/polygon.py">다양한 외곽선 함수</a>
+9. <a href="/CH07/namecard.py">실전 코딩 명함 인식 프로그램</a>
+
+    - **Tesseract-ocr 설치하기**
+    1. tesseract-ocr-w64-setup-v5.0.0-alpha.20200328 파일 다운로드 
+   (https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe)
+    2. 설치 시 "Additional script data" 항목에서 "Hangul Script", "Hangul vertical script" 항목 체크,
+   "Additional language data" 항목에서 "Korean" 항목 체크.
+    3. 설치 후 시스템 환경변수 PATH에 Tesseract 설치 폴더 추가
+   (e.g.) c:\Program Files\Tesseract-OCR
+    4. 설치 후 시스템 환경변수에 TESSDATA_PREFIX를 추가하고, 변수 값을 <Tesseract-DIR>\tessdata 로 설정
+    5. <Tesseract-DIR>\tessdata\script\ 폴더에 있는 Hangul.traineddata, Hangul_vert.traineddata 파일을
+   <Tesseract-DIR>\tessdata\ 폴더로 복사
+    6. 명령 프롬프트 창에서 pip install pytesseract 명령 입력
+
+
+<br>
+
+## < Chapter 08 > 영상 분할과 객체 검출
