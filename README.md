@@ -105,3 +105,5 @@ ___
 <br>
 
 ## < Chapter 08 > 영상 분할과 객체 검출
+1. 그랩컷 &nbsp;<a href="/CH08/grabcut1.py">( 1 )</a> &nbsp;/&nbsp; <a href="/CH08/grabcut2.py">( 2 )</a>
+2. <a href="/CH08/matchshape.py">모멘트 기반 객체 검출</a>
